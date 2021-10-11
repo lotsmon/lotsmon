@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @lotsmon
+- 👀 I am interested in learning programming in different languages
